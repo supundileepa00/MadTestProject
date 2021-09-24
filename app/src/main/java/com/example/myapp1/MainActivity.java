@@ -31,6 +31,6 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
     
-    public void calculate(){
-        
-}
+    public void CalculateMethod(){
+        System.out.println();
+    }
