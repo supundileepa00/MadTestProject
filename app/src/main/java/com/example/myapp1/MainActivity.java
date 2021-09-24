@@ -20,7 +20,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //comment
+
+    //calc
+
     //omment 2
+
 
     //send message
     public void sendMessage(View view){
