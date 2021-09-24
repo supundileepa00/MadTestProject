@@ -27,14 +27,15 @@ public class MainActivity extends AppCompatActivity {
 
 
     //send message
-    public void sendMessage(View view){
+    public void sendMessage(View view) {
         Intent intent = new Intent(this, DisplayMessageActivity.class);
         EditText editText = (EditText) findViewById(R.id.et_name);
         String message = editText.getText().toString();
         intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
     }
-    
-    public void CalculateMethod(){
+
+    public void CalculateMethod() {
         System.out.println();
     }
+}
