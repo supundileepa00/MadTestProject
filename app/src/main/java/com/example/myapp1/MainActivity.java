@@ -24,6 +24,9 @@ public class MainActivity extends AppCompatActivity {
     //calc
 
     //omment 2
+    
+    public void displayMethod(){
+    }
 
 
     //send message
