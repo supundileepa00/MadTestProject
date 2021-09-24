@@ -19,15 +19,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    //comment
-
-    //calc
-
-    //omment 2
-    
-    public void displayMethod(){
-    }
-
 
     //send message
     public void sendMessage(View view) {
@@ -38,7 +29,4 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void CalculateMethod() {
-        System.out.println();
-    }
 }
