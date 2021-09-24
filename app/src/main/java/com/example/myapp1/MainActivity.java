@@ -19,9 +19,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     
-    public void displayDetails(){
-    
-    }
+
+
 
 
     //send message
