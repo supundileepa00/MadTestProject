@@ -20,7 +20,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //comment
+
     //calc
+
+    //omment 2
+
 
     //send message
     public void sendMessage(View view){
@@ -30,4 +34,7 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
     }
-}
+    
+    public void CalculateMethod(){
+        System.out.println();
+    }
