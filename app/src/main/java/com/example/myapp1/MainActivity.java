@@ -21,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
 
     //comment
     //omment 2
+    
+    public void displayMethod(){
+    }
 
     //send message
     public void sendMessage(View view){
@@ -34,3 +37,4 @@ public class MainActivity extends AppCompatActivity {
     public void CalculateMethod(){
         System.out.println();
     }
+}
