@@ -25,6 +25,8 @@ public void sst(){}
 public void ggg(){}
     
     public void display(){}
+    
+    public void displayMethod(){{
 
 
 
