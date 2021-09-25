@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
 public void sst(){}
 
 public void ggg(){}
+    
+    public void display(){}
 
 
 
